@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 42
-EXTRAVERSION = -OverKill-v4r-Xtended
+EXTRAVERSION = -OverKill-v4r1-Xtended
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
